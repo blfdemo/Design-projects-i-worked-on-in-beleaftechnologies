@@ -1126,6 +1126,7 @@ window.SITE_DATA = {
   "brand": "#16a34a",
   "logo": "",
   "footerText": "",
-  "footerLinks": []
+  "footerLinks": [],
+  "avatar": "assets/avatar.jpg?v=1793859904508"
  }
 };
