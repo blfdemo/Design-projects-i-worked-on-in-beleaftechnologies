@@ -1127,6 +1127,6 @@ window.SITE_DATA = {
   "logo": "",
   "footerText": "",
   "footerLinks": [],
-  "avatar": "assets/avatar.jpg?v=1793860103663"
+  "avatar": "assets/avatar.jpg?v=1793860168043"
  }
 };
