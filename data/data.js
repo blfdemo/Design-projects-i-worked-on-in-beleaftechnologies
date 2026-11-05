@@ -1123,7 +1123,7 @@ window.SITE_DATA = {
   ]
  },
  "settings": {
-  "brand": "#0e8a4e",
+  "brand": "#0284c7",
   "logo": "",
   "footerText": "",
   "footerLinks": []
