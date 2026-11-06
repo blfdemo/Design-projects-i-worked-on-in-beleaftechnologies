@@ -1141,9 +1141,10 @@ window.SITE_DATA = {
  },
  "settings": {
   "brand": "#16a34a",
-  "logo": "",
+  "logo": "assets/logo.png?v=1793960453422",
   "footerText": "",
   "footerLinks": [],
-  "avatar": "assets/avatar.jpg?v=1793860168043"
+  "avatar": "assets/avatar.jpg?v=1793860168043",
+  "logoDark": "assets/logo-dark.png?v=1793960453422"
  }
 };
