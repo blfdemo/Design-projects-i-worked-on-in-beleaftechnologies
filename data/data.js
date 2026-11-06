@@ -1069,6 +1069,23 @@ window.SITE_DATA = {
      "url": "https://www.figma.com/design/PiV6J2NMRvCso9eMFeS9Ny/Trust-wallet-Refresh?node-id=0-1&t=vhqhN7APvWW0EKAV-1"
     }
    ]
+  },
+  {
+   "id": "fit-beacon-fitness-app",
+   "cat": "projects",
+   "name": "Fit Beacon (Fitness App)",
+   "sub": "ai",
+   "status": "design",
+   "links": [
+    {
+     "label": "Demo",
+     "url": "https://blfdemo.github.io/fitness-App/"
+    },
+    {
+     "label": "Repo",
+     "url": "https://github.com/blfdemo/fitness-App"
+    }
+   ]
   }
  ],
  "resources": {
