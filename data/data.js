@@ -1142,7 +1142,7 @@ window.SITE_DATA = {
  "settings": {
   "brand": "#16a34a",
   "logo": "",
-  "footerText": "",
+  "footerText": "© 2026 Rajeshwaran | UI/UX Design | Beleaf Technologies. All Rights Reserved.",
   "footerLinks": [],
   "avatar": "assets/avatar.jpg?v=1793860168043",
   "logoDark": ""
