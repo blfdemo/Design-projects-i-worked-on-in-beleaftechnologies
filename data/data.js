@@ -1086,6 +1086,19 @@ window.SITE_DATA = {
      "url": "https://github.com/blfdemo/fitness-App"
     }
    ]
+  },
+  {
+   "id": "crypto-exchange-new",
+   "cat": "projects",
+   "name": "Crypto Exchange (new)",
+   "sub": "",
+   "status": "design",
+   "links": [
+    {
+     "label": "Figma",
+     "url": "https://blfdemo.github.io/Design-projects-i-worked-on-in-beleaftechnologies/"
+    }
+   ]
   }
  ],
  "resources": {
