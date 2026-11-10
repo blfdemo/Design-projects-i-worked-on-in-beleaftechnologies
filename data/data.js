@@ -3,7 +3,7 @@ window.SITE_DATA = {
  "profile": {
   "name": "Rajeshwaran S",
   "role": "UI/UX Designer",
-  "tagline": "One year of product design — web3, fintech, trading and marketing sites."
+  "tagline": "One year of product design, Thank you for everything Beleaf Technologies."
  },
  "cats": [
   {
